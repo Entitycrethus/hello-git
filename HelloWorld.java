@@ -3,7 +3,7 @@ public class HelloWorld {
 
 
     public void saludar(){
-        System.out.println("New Git: Hello World");
+        System.out.println("Hello git");
     }
 
 
